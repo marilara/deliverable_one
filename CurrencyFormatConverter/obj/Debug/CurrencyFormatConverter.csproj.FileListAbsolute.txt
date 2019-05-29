@@ -1,0 +1,7 @@
+C:\Users\maril\source\repos\CurrencyFormatConverter\CurrencyFormatConverter\obj\Debug\CurrencyFormatConverter.csprojAssemblyReference.cache
+C:\Users\maril\source\repos\CurrencyFormatConverter\CurrencyFormatConverter\obj\Debug\CurrencyFormatConverter.csproj.CoreCompileInputs.cache
+C:\Users\maril\source\repos\CurrencyFormatConverter\CurrencyFormatConverter\bin\Debug\CurrencyFormatConverter.exe.config
+C:\Users\maril\source\repos\CurrencyFormatConverter\CurrencyFormatConverter\bin\Debug\CurrencyFormatConverter.exe
+C:\Users\maril\source\repos\CurrencyFormatConverter\CurrencyFormatConverter\bin\Debug\CurrencyFormatConverter.pdb
+C:\Users\maril\source\repos\CurrencyFormatConverter\CurrencyFormatConverter\obj\Debug\CurrencyFormatConverter.exe
+C:\Users\maril\source\repos\CurrencyFormatConverter\CurrencyFormatConverter\obj\Debug\CurrencyFormatConverter.pdb
